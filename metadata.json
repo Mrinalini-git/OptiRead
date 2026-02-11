@@ -1,0 +1,8 @@
+{
+  "name": "OptiRead",
+  "description": "An AI voice assistant that provides detailed descriptions of scenes, people, and objects through your device's camera. It offers features like person recognition, custom voice queries, and continuous navigation assistance, all controlled via voice and simple on-screen buttons.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
